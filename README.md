@@ -4,6 +4,8 @@ This research project was conducted as the final project for a brush-up course w
 
 ## Collaborators
 
+Group name: Corona Researchers
+
 * Viktoriia Yuzkiv
 * Angelo Di Gianvito
 * Rui Maciel
